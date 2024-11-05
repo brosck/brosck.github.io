@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hey! I'm MrEmpy, I'm 18 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
+Hey! I'm Brosck, I'm 18 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
 
 <h2>More about me</h2>
 
